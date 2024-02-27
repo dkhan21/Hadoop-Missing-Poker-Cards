@@ -103,3 +103,8 @@ This MapReduce program, implemented in Java, is designed to analyze sets of poke
 - Diamond 13
 - Heart   13
 - Spade   13
+  
+## What I learned
+- This project demonstrateed the function of MapReduce that has a way in solving real-world problems, such as identifying missing elements within a dataset, a common scenario in data analysis and quality assurance.
+- This project enhanced my understanding of the MapReduce programming paradigm, which is crucial for processing and analyzing large-scale data in a distributed computing environment.
+- I gained practical experience in configuring and setting up a Hadoop job using the Apache Hadoop framework. This involved specifying key components such as mappers, reducers, input/output formats, and the overall job configuration.
