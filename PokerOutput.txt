@@ -1,0 +1,4 @@
+Club    13
+Diamond 13
+Heart   13
+Spade   13
